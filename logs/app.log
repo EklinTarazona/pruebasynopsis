@@ -1,0 +1,134 @@
+2021-09-28 23:07:44 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 4224 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:07:44 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:07:49 INFO  Started TiendaonlineApplication in 6.277 seconds (JVM running for 9.689)
+2021-09-28 23:08:15 INFO  Ingreso a método add
+2021-09-28 23:08:15 INFO  Ingreso a método add
+2021-09-28 23:08:15 INFO  Ingreso a método add
+2021-09-28 23:09:04 WARN  Ingreso a método delete
+2021-09-28 23:09:04 WARN  Ingreso a método delete
+2021-09-28 23:09:04 WARN  Ingreso a método delete
+2021-09-28 23:09:04 WARN  Ingreso a método delete
+2021-09-28 23:09:04 WARN  Ingreso a método delete
+2021-09-28 23:09:35 INFO  Ingreso a método add
+2021-09-28 23:09:35 INFO  Ingreso a método add
+2021-09-28 23:09:35 INFO  Ingreso a método add
+2021-09-28 23:10:26 INFO  Ingreso a método add
+2021-09-28 23:10:26 INFO  Ingreso a método add
+2021-09-28 23:10:26 INFO  Ingreso a método add
+2021-09-28 23:10:33 INFO  Ingreso a método add
+2021-09-28 23:10:33 INFO  Ingreso a método add
+2021-09-28 23:10:33 INFO  Ingreso a método add
+2021-09-28 23:10:37 INFO  Ingreso a método list
+2021-09-28 23:10:37 INFO  Ingreso a método list
+2021-09-28 23:10:37 INFO  Ingreso a método list
+2021-09-28 23:12:51 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 14748 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:12:51 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:12:56 INFO  Started TiendaonlineApplication in 5.741 seconds (JVM running for 8.611)
+2021-09-28 23:13:52 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 11408 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:13:52 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:14:10 INFO  Started TiendaonlineApplication in 18.222 seconds (JVM running for 20.724)
+2021-09-28 23:25:54 INFO  Ingreso a método list
+2021-09-28 23:25:54 INFO  Ingreso a método list
+2021-09-28 23:25:54 INFO  Ingreso a método list
+2021-09-28 23:32:06 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 8496 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:32:06 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:32:10 INFO  Started TiendaonlineApplication in 5.296 seconds (JVM running for 8.558)
+2021-09-28 23:32:55 INFO  Ingreso a método list
+2021-09-28 23:32:55 INFO  Ingreso a método list
+2021-09-28 23:32:55 INFO  Ingreso a método list
+2021-09-28 23:49:11 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 7772 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:49:11 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:49:14 INFO  Started TiendaonlineApplication in 3.418 seconds (JVM running for 5.441)
+2021-09-28 23:50:30 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 1776 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:50:30 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:50:33 INFO  Started TiendaonlineApplication in 3.543 seconds (JVM running for 5.595)
+2021-09-28 23:51:40 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 3660 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:51:40 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:51:43 INFO  Started TiendaonlineApplication in 4.323 seconds (JVM running for 6.3)
+2021-09-28 23:52:30 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 10840 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:52:30 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:52:33 INFO  Started TiendaonlineApplication in 3.708 seconds (JVM running for 5.671)
+2021-09-28 23:52:46 INFO  Ingreso a método list
+2021-09-28 23:52:46 INFO  Ingreso a método list
+2021-09-28 23:52:46 INFO  Ingreso a método list
+2021-09-28 23:54:09 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 5756 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-28 23:54:09 INFO  No active profile set, falling back to default profiles: default
+2021-09-28 23:54:12 INFO  Started TiendaonlineApplication in 3.632 seconds (JVM running for 5.845)
+2021-09-28 23:54:27 INFO  Ingreso a método list
+2021-09-28 23:54:27 INFO  Ingreso a método list
+2021-09-28 23:54:27 INFO  Ingreso a método list
+2021-09-28 23:54:27 INFO  Ingreso a método list
+2021-09-28 23:54:27 INFO  Ingreso a método list
+2021-09-28 23:54:27 INFO  Ingreso a método list
+2021-09-29 00:08:35 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 11308 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:08:35 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:08:39 INFO  Started TiendaonlineApplication in 4.231 seconds (JVM running for 6.274)
+2021-09-29 00:09:08 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 7272 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:09:08 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:09:16 INFO  Started TiendaonlineApplication in 11.417 seconds (JVM running for 25.504)
+2021-09-29 00:32:05 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 14152 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:32:05 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:32:08 ERROR 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field unauthorizedHandler in com.evalfinal.tiendaonline.security.WebSecurityConfig required a bean of type 'com.evalfinal.tiendaonline.security.JwtAuthenticationEntryPoint' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.evalfinal.tiendaonline.security.JwtAuthenticationEntryPoint' in your configuration.
+
+2021-09-29 00:38:44 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 248 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:38:44 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:38:48 ERROR 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field unauthorizedHandler in com.evalfinal.tiendaonline.security.WebSecurityConfig required a bean of type 'com.evalfinal.tiendaonline.security.JwtAuthenticationEntryPoint' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.evalfinal.tiendaonline.security.JwtAuthenticationEntryPoint' in your configuration.
+
+2021-09-29 00:40:53 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 11992 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:40:53 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:41:31 ERROR 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field unauthorizedHandler in com.evalfinal.tiendaonline.security.WebSecurityConfig required a bean of type 'com.evalfinal.tiendaonline.security.JwtAuthenticationEntryPoint' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.evalfinal.tiendaonline.security.JwtAuthenticationEntryPoint' in your configuration.
+
+2021-09-29 00:43:01 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 15144 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:43:01 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:43:07 INFO  Started TiendaonlineApplication in 7.072 seconds (JVM running for 11.976)
+2021-09-29 00:47:33 INFO  Starting TiendaonlineApplication using Java 1.8.0_302 on Eklin with PID 6880 (D:\WS\tiendaonline\target\classes started by EKLIN in D:\WS\tiendaonline)
+2021-09-29 00:47:33 INFO  No active profile set, falling back to default profiles: default
+2021-09-29 00:47:37 INFO  Started TiendaonlineApplication in 5.374 seconds (JVM running for 8.337)
